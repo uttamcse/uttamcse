@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamcse&label=Profile%20views&color=0e75b6&style=flat" alt="uttamcse" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 Ask me about **Java,MySQL,Spring Boot**
+- 💬 Ask me about **Java,MySQL,MERN**
 
 - 📫 How to reach me **uttamcseau@gmail.com**
 
